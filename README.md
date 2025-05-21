@@ -1,8 +1,8 @@
 # 🎯 KaNuker
 
 > **A Free Educational Tool**
->
-> btw this was written by ChatGPT (4o)
+
+btw this README.md was written by ChatGPT (4o)
 
 KaNuker is a **powerful Python-based Kahoot bot spammer** made for educational and experimental purposes only. Launch waves of bots into any game with custom settings, and watch the lobby light up.
 

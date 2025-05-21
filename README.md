@@ -8,6 +8,18 @@ KaNuker is a **powerful Python-based Kahoot bot spammer** made for educational a
 
 ---
 
+### 🛡️ "Windows protected your PC" Warning
+
+When launching the EXE, Windows may show a **"Windows protected your PC"** message. This happens because the file isn’t from a verified publisher.
+#### Verifying the EXE would cost up to $300 USD a year.
+
+To run it anyway:
+1. Click **"More info"**
+2. Click **"Run anyway"**
+
+> 💡 This is normal for unsigned EXE files. The program is safe — you can inspect the source code or decompile the EXE to verify.
+
+
 ## ⚙️ Features
 
 KaNuker v1 keeps it simple and effective:

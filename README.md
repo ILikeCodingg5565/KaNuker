@@ -10,13 +10,13 @@ KaNuker is a **powerful Python-based Kahoot bot spammer** made for educational a
 
 ## Table of Contents
 
-[AV flags](https://github.com/ILikeCodingg5565/KaNuker/edit/main/README.md#%EF%B8%8F-windows-protected-your-pc-warning)
-[Is it malicious](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#%EF%B8%8F-but-is-it-actually-malicious)
-[Features](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#%EF%B8%8F-features)
-[Installation](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#-installation--usage)
-[Contributions](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#-contributing)
-[Roadmap](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#-roadmap--future-plans)
-[Credits](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#-credits)
+[AV flags](https://github.com/ILikeCodingg5565/KaNuker/edit/main/README.md#%EF%B8%8F-windows-protected-your-pc-warning)  
+[Is it malicious](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#%EF%B8%8F-but-is-it-actually-malicious)   
+[Features](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#%EF%B8%8F-features)   
+[Installation](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#-installation--usage)   
+[Contributions](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#-contributing)   
+[Roadmap](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#-roadmap--future-plans)   
+[Credits](https://github.com/ILikeCodingg5565/KaNuker/blob/main/README.md#-credits)   
 
 ### 🛡️ "Windows protected your PC" Warning
 

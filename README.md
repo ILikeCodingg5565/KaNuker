@@ -1,45 +1,85 @@
-# KaNuker
-This is an Educational Tool
+# 🎯 KaNuker
 
-A powerul, Kahoot Bot Spammer made in Python
+> **An educational tool** disguised as a chaos machine.
 
-## Features
+KaNuker is a **powerful Python-based Kahoot bot spammer** made for educational and experimental purposes only. Launch waves of bots into any game with custom settings, and watch the lobby light up.
 
-KaNuker (v1) is very simple - pick your game (PIN), Bot-name (has a random string of numbers attached at the end to prevent duping), the amount of bots that join, and the cooldown between bots. 
+---
 
-## Package
+## ⚙️ Features
 
-I've supplied an EXE for quick off-the-bat launches [here](https://github.com/ILikeCodingg5565/KaNuker/releases). However, if you are uncomfortable running an EXE ive supplied the source code in `main.py` - MAKE SURE TO INSTALL `requirements.txt` and run 
-```python
-pip install -r requirements.txt
-```
-If you still don't want to run the .py on your computer, you can run it online if you find an interpreter that supports the imports.
+KaNuker v1 keeps it simple and effective:
+- 🔢 Enter a Kahoot Game PIN  
+- 🧠 Choose a base name (each bot gets a unique random suffix)  
+- 🤖 Pick how many bots to send  
+- ⏱ Set a cooldown delay between each join  
 
-## Safety
+---
 
-The program itself is safe. Decompile it, check it, it's clean. 
+## 📦 Installation & Usage
 
-## Forking
+### 🔁 Quick Start (Windows Users)
 
-I'm happy if you want to add to the project! Please - if you have suggestions send them in the Issues tab - if you want to implement stuff fork it!
+Grab the latest **EXE release** [here](https://github.com/ILikeCodingg5565/KaNuker/releases) and run it—no Python knowledge needed.
 
+### 🐍 Python Enthusiasts
 
-## Future Ideas
+Prefer running the source?
 
-Obviously, this project has a lot of quick potential, mainly because a lot of Kahoot bots have been taken down.
+1. Clone the repo or download `main.py`
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the script:
+   ```bash
+   python main.py
+   ```
 
-Heres a basic roadmap of what I want to try and do.
+> 💡 You can also use any online Python interpreter **(with support for `kahoot` imports)** if you’d rather not run this locally.
 
-### Better Name Randomization
+---
 
-Make better randomization, very easy to do
+## 🔒 Safety
 
-### Quicker Load
+This project is clean and open.  
+**No malware, no surprises.**  
+Feel free to inspect the source or decompile the EXE if you want peace of mind.
 
-Currently the bot can take a bit of time to load - I want to speed this up.
+---
 
-# Credits
-#### (you get a big one)
+## 🤝 Contributing
 
-[@vehbiu](https://github.com/vehbiu), thankyou so much :)
-You made this possible - without your `kahoot` python package this would have been a lot harder
+Got ideas? Found bugs?  
+- ✨ Open an issue with your suggestions  
+- 🔀 Fork the repo to add new features  
+- 📬 Pull requests welcome!
+
+Collaboration is encouraged—let’s make it better together!
+
+---
+
+## 🛣 Roadmap & Future Plans
+
+Here’s what’s cooking:
+
+### ✅ Smarter Name Generation  
+Less obvious bot names = better trolling.
+Currently bot names are `name_xxxx` where 'xxxx' is a 4 digit number.
+
+### 🚀 Faster Bot Launching  
+Current performance is decent but could be quicker. Optimization on the way!
+
+### 📡 More Advanced Control Panel (v2?)  
+GUI or TUI options for easier use? Maybe!
+
+---
+
+## 🙌 Credits
+
+Massive thanks to [@vehbiu](https://github.com/vehbiu) 💖  
+Your `kahoot` Python package made this all possible.
+
+---
+
+> ⚠️ **Disclaimer**: This project is for educational purposes only. Please use responsibly and ethically.

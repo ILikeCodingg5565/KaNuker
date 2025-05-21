@@ -19,6 +19,28 @@ To run it anyway:
 
 > 💡 This is normal for unsigned EXE files. The program is safe — you can inspect the source code or decompile the EXE to verify.
 
+### 🧪 Antivirus & VirusTotal Flags
+
+You might notice the EXE gets flagged by **Windows Defender** or shows warnings on **VirusTotal**. Here's why:
+
+#### ❓ Why is this happening?
+
+- **The EXE is generated from Python using tools like PyInstaller**, which package your script and Python interpreter into one file. This technique is sometimes abused by malware authors — so antivirus engines often flag **any** such EXEs as "suspicious."
+- **The file is unsigned**, meaning there’s no digital signature proving it came from a trusted source.
+- **Low reputation**: Since this is a new and custom-built tool, it hasn’t been downloaded or whitelisted much, so automated systems assume it's risky by default.
+
+#### 🛠️ But is it actually malicious?
+
+**No. The source code is included** in the repo (`main.py`) — feel free to:
+- Read it
+- Run it directly in Python
+- Compile it yourself using tools like `pyinstaller`
+
+If you’re still unsure, **you can upload your own compiled version to VirusTotal** to compare with mine.
+
+> 💡 False positives are very common with small Python tools packaged into EXEs. If in doubt, run the `.py` directly!
+
+
 
 ## ⚙️ Features
 

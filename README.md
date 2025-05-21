@@ -9,7 +9,7 @@ KaNuker (v1) is very simple - pick your game (PIN), Bot-name (has a random strin
 
 ## Package
 
-I've supplied an EXE for quick off-the-bat launches. However, if you are uncomfortable running an EXE ive supplied the source code in `main.py` - MAKE SURE TO INSTALL `requirements.txt` and run 
+I've supplied an EXE for quick off-the-bat launches [here](https://github.com/ILikeCodingg5565/KaNuker/releases). However, if you are uncomfortable running an EXE ive supplied the source code in `main.py` - MAKE SURE TO INSTALL `requirements.txt` and run 
 ```python
 pip install -r requirements.txt
 ```

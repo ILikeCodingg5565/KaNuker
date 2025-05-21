@@ -8,6 +8,16 @@ KaNuker is a **powerful Python-based Kahoot bot spammer** made for educational a
 
 ---
 
+## Table of Contents
+
+[AV flags]()
+[Is it malicious]()
+[Features]()
+[Installation]()
+[Contributions]()
+[Roadmap]()
+[Credits]()
+
 ### 🛡️ "Windows protected your PC" Warning
 
 When launching the EXE, Windows may show a **"Windows protected your PC"** message. This happens because the file isn’t from a verified publisher.

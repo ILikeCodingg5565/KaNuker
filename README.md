@@ -129,3 +129,7 @@ Your `kahoot` Python package made this all possible.
 ---
 
 > ⚠️ **Disclaimer**: This project is for educational purposes only. Please use responsibly and ethically.
+
+
+## Update Logs
+Added V1
